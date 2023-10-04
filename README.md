@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=AboutMe)
 
+<div align=center>☑ 소통하며 안정적인 서비스를 만들고 싶은 개발자 </div>
+
 
 
 <div align=center><h1>📚 STACKS</h1></div>
